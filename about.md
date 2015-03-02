@@ -9,5 +9,5 @@ previous life, I was an Investment Research Associate for a Wealth Management
 firm based in Denver, CO.
 
 I hope this blog can be a resource to those who are on the fence about jumping
-into Web development as well as provide a few tips and tricks to those just
+into Web Development as well as provide a few tips and tricks to those just
 starting out.
