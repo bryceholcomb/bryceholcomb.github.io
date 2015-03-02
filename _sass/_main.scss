@@ -28,7 +28,7 @@ img {
 
 .about-image {
   background: url(http://www.bryceholcomb.com/images/headshot.jpg);
-  background-size: cover;
+  background-size: thumbnail;
   height: 500px;
   padding-bottom: 20px;
 }
@@ -40,6 +40,16 @@ img {
 .site-wrap {
   min-height: 100%;
   margin-bottom: -120px;
+}
+
+.divider h4 {
+  bottom: 2em;
+}
+
+.divider {
+  background-color: black;
+  padding-bottom: 10em;
+  text-align: center;
 }
 
 .site-wrap:after {
@@ -71,6 +81,10 @@ body {
 .site-header a {
   color: #333;
   font-weight: 300;
+}
+
+.site-header {
+  padding: 0 0 1.5em 0;
 }
 
 .site-header nav a {
@@ -325,7 +339,7 @@ h6,
 }
 
 .social-icons {
-    padding: 0.5em 0 0 0;
+    padding: 0.25em 0 0 0;
     font-size: 1.25rem;
     width: 100%;
 }
