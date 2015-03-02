@@ -27,7 +27,14 @@ img {
 }
 
 .about-image {
-  background: url(http://www.bryceholcomb.com/images/headshot.jpg)
+  background: url(http://www.bryceholcomb.com/images/headshot.jpg);
+  background-size: cover;
+  height: 500px;
+  padding-bottom: 20px;
+}
+
+.about-title {
+  position: relative;
 }
 
 .site-wrap {
