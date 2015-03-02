@@ -24,3 +24,12 @@ explore, but the time constraint is a very harsh reality. In the wake of this I
 am trying to keep a postive attitude in thinking back on just how much I've
 learned. With that in mind, it is easy to see that there have been far more ups
 than downs on my journey to becomming a Rails developer.
+
+For those just starting out with Ruby on Rails I have a few words of advice in no specific order:
+
+- There is no way to avoid the "pitfalls"
+- Learn to embrace said "pitfalls", they're part of the process of learning
+- Learn Ruby before you learn Rails
+- Once you do, learn Rails inside and out
+- Seek out mentorship from a pro
+- Be a mentor to someone behind you
