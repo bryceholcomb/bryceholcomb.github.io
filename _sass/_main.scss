@@ -60,7 +60,6 @@ html, body {
 
 .site-wrap {
   min-height: 100%;
-  margin-bottom: -120px;
 }
 
 .site-title {
@@ -97,7 +96,6 @@ html, body {
 }
 
 .footer, .site-wrap:after {
-  height: 120px;
 }
 
 body {
@@ -435,7 +433,7 @@ h6,
   }
 
   .small {
-    font-size: 1rem;
+    font-size: 3rem;
   }
 
   table {
