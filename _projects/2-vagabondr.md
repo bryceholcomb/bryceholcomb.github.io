@@ -10,4 +10,4 @@ summary: "A group project built while a student at the Turing School of Software
 - Learning AJAX and jQuery for Sign Up and Log In modals
 - Implementing user stories and feature testing with Rspec
 - Using Waffle.io for project management
-- Code reviews and Gihub workflow with a team
+- Code reviews and Github workflow with a team
