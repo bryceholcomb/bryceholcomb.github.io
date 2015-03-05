@@ -21,25 +21,73 @@ html, body {
   height: 100%;
 }
 
-img {
-  width: auto;
-  max-width: 100%;
+.about-title {
 }
 
 .about-image {
-  background: url(http://www.bryceholcomb.com/images/headshot.jpg);
-  background-size: cover;
-  height: 500px;
-  padding-bottom: 20px;
+  max-height: 300px;
+  max-width: 240px;
 }
 
-.about-title {
-  position: relative;
+.img-thumbnail {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: all .2s ease-in-out;
+       -o-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.col-md-4 {
+  width: 33.33333333%;
+  float: left;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
 }
 
 .site-wrap {
   min-height: 100%;
   margin-bottom: -120px;
+}
+
+.site-title {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.divider-text h4 {
+  font-size: 1.5em;
+}
+
+.divider-text h5 {
+  font-size: 1.0em;
+  font-style: italic;
+}
+
+.divider-text {
+  color: #F2F1EF;
+  padding-top: 2.5em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.divider {
+  margin-top: 1.5em;
+  background-color: #22313F;
+  text-align: center;
+  padding-bottom: 2.5em;
 }
 
 .site-wrap:after {
@@ -71,6 +119,10 @@ body {
 .site-header a {
   color: #333;
   font-weight: 300;
+}
+
+.site-header {
+  padding: 0 0 0 0;
 }
 
 .site-header nav a {
@@ -325,7 +377,7 @@ h6,
 }
 
 .social-icons {
-    padding: 0.5em 0 0 0;
+    padding: 0.25em 0 0 0;
     font-size: 1.25rem;
     width: 100%;
 }
