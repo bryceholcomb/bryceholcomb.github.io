@@ -9,3 +9,5 @@ summary: "A group project built while a student at the Turing School of Software
 - Pivoting a single tenant application into multitenancy
 - Learning AJAX and jQuery for Sign Up and Log In modals
 - Implementing user stories and feature testing with Rspec
+- Using Waffle.io for project management
+- Code reviews and Gihub workflow with a team

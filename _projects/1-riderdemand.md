@@ -9,3 +9,5 @@ summary: "An individual project built while a student at the Turing School of So
 - Consuming multiple APIs
 - Abstracting logic into Decorators and Presenters
 - Building an API
+- Continuous integration and deployment with Codeship
+- PivotalTracker (albeit with an individual project)
