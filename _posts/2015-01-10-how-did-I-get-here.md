@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Turing School - How did I get here?"
-date:   2015-02-01 21:35:07
+title:  "Turing School - How Did I Get Here?"
+date:   2015-01-10 21:35:07
 summary: "My roundabout journey to becoming a Ruby on Rails developer"
 ---
 In all honesty, I haven't had time to ask myself this question since I started class
