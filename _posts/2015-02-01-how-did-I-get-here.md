@@ -21,9 +21,9 @@ This all changed when I moved to Denver and heard stories that ran the gamut
 from people who changed to programming midway through their careers to people
 who had never attended college and taught themselves to program. With this
 newfound inspiration I began gobbling up any resources I could get my hands on.
-I started with Codecademy's HTML and CSS courses. Then through the guidance of a
+I started with [Codecademy's](http://www.codecademy.com) HTML and CSS courses. Then through the guidance of a
 fellow UNC grad who made the leap into Ruby on Rails, I started Michael Hartl's
-online course for Rails. Needless to say I was a little overwhelmed learning on
+online course for [Rails](https://www.railstutorial.org/). Needless to say I was a little overwhelmed learning on
 my own, but felt comfortable learning through the tutorial. It didn't take
 long before I would come home from work and spend the rest of my waking hours
 building Ruby on Rails applications, much to the dismay of my girlfriend.
@@ -46,11 +46,11 @@ actually turn this into a career. I had the opportunity to hear Jeff Casimir and
 tell their stories. I knew then and there that I was going to apply to Turing.
 Luckily I heard back pretty quickly, and in the course of a few months I went
 from an Investment Research Associate to a full time student learning Ruby on
-Rails and Javascript.
+Rails and JavaScript.
 
 I have come a long way since starting class back in October and I have never
 worked so hard and accomplished so much. Two of the most important lessons I
 have learned though, are that this has been the greatest career decision for me personally, and
-nearly anyone with enough passion and grit can become a web developer. So I hope this blog can
-be an inspiration for anyone that is toying with the idea of becomming a
+nearly anyone with enough passion and grit can become a web developer. With that being said, I hope this blog can
+be an inspiration and a resource for anyone that is toying with the idea of becoming a
 full-time Web Developer.
