@@ -11,11 +11,27 @@ that the how isn't as important as the why.
 I came to Turing to learn beyond just the basics of web development, and a few
 of my goals are:
 
+- Get feedback
 - Learn to develop on a team
 - Give back to the community
 
 If you want to know the plethora of reasons why I chose Turing in particular, feel free to shoot me an
 email.
+
+### Feedback
+
+What little time I spent programming before Turing was in isolation. I didn't have
+any sort of feedback loop other than seeing one way of doing things through a
+tutorial. I most look forward to learning other ways of solving the same
+technical challenge, as we all know there is no single way of doing things in
+programming.
+
+I really value gaining a depth of knowledge that can only come through diversity
+of opinion and I believe Turing will afford me the opportunity to hear and see
+those differences in action. They already have a structured mentorship program
+as well as code reviews with instructors after projects, but I am also looking
+forward to the more impromptu feedback from other students who are in the same
+technical "boat" as myself.
 
 ### Teamwork
 

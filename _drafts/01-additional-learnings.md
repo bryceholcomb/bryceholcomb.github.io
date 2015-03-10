@@ -7,3 +7,4 @@ summary: "A few weeks in, I'm learning much more than I anticipated"
 Turns out I'm learning many more facets of development other than web development itself. Some of my findings are:
 
 - The importance of communication
+- I learn more from giving feedback than getting feedback
