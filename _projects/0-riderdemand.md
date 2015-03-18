@@ -17,3 +17,4 @@ summary: "An individual project built while a student at the Turing School of So
 
 - Wrap the current JSON endpoints in a more formal API with authentication
 - Develop a mobile application that renders the RiderDemand API data
+- Integrate Sidekiq and Redis to update Uber ETA times every five minutes
