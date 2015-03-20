@@ -6,15 +6,16 @@ summary: "Populating a map with data from your database using AJAX"
 ---
 Last week, I began work on an individual project for Turing,
 [RiderDemand](https://www.rider-demand.herokuapp.com). Check out my
-"Projects" page for more info. I planned
+[Projects](https://www.bryceholcomb.com/projects/) page for more info. I planned
 to pull event data from an external API into my application and plot the events on a map. I have used Google
 Maps on a previous project, so I figured I would give Leaflet.js and MapBox.js a try. (MapBox is just
 a handy layer wrapped around Leaflet's open source JavaScript library).
 
 I unfortunately, or fortunately depending on how you look at it, couldn't find too many resources on integrating MapBox with a Ruby on Rails
-application, so I figured I should add to the mix. Just a disclaimer, I am
-pulling heavily from Vladi Gleba's post on the same topic written in 2013. I
-updated a few aspects of the code.........................
+application, so I figured I should add to the mix. The code samples are pulled
+from RiderDemand and follow the process of pulling events from the database
+asynchronously
+and rendering them on the map.
 
 This "tutorial" assumes that you have a few things set up:
 
@@ -54,9 +55,8 @@ end
 {% endhighlight %}
 
 First we need to tell this endpoint how to respond to a JSON response. The
-method #respond_with is built in with Rails and will handle the different types
-of formats that are specified. One other format is XML, but that isn't relevant,
-nor fun to handle.
+method #respond_to is built in with Rails and will handle the different types
+of formats that are specified in the request.
 
 Next we need to transform our @events from an
 [ActiveRecord::Relation](http://api.rubyonrails.org/classes/ActiveRecord/Relation.html) into

@@ -4,7 +4,7 @@ title:  "RiderDemand"
 live_url: https://rider-demand.herokuapp.com
 code: https://github.com/bryceholcomb/rider_demand
 stack: Ruby on Rails, Uber API, Eventful API, MapBox.js, PostgreSQL
-summary: "An individual project built while a student at the Turing School of Software and Design. The focus was on consuming and building APIs"
+summary: "An individual project built while a student at the Turing School of Software and Design. The focus was on consuming and building APIs."
 ---
 - Consuming multiple APIs and testing with VCR
 - Building an API
