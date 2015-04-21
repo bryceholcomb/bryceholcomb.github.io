@@ -68,6 +68,7 @@ markers.
 
 {% highlight ruby %}
 # app/controllers/events_controller.rb
+
 events_controller.rb
 
 class EventsController < ApplicationController
@@ -90,6 +91,7 @@ class EventsController < ApplicationController
 end
 
 # app/models/geojson_builder.rb
+
 class GeojsonBuilder
   def build_event(event, geojson)
     geojson << {
@@ -126,7 +128,8 @@ the map.
 ### Adding the Event data to the DOM
 
 {% highlight javascript %}
-# app/assets/javascripts/map.js
+// app/assets/javascripts/map.js
+
 $(document).on("ready", function() {
   L.mapbox.accessToken = 'your access token';
   var map = L.mapbox.map('map', 'Your map layer', { zoomControl: false })
