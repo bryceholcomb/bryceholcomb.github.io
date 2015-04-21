@@ -5,8 +5,8 @@ date:   2015-02-10 21:35:07
 summary: "Moving data from your database to a map using AJAX"
 ---
 Last week, I began work on an individual project for Turing,
-[RiderDemand](https://www.rider-demand.herokuapp.com). Check out my
-[Projects](https://www.bryceholcomb.com/projects/) page for more info. I planned
+[RiderDemand](http://rider-demand.herokuapp.com). Check out my
+[Projects](http://bryceholcomb.com/projects/) page for more info. I planned
 to pull event data from an external API into my application and plot the events on a map. I have used Google
 Maps on a previous project, so I figured I would give Leaflet.js and MapBox.js a try. (MapBox is just
 a handy layer wrapped around Leaflet's open source JavaScript library).
