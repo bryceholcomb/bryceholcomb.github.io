@@ -7,6 +7,7 @@ stack: Ruby on Rails, Uber API, Eventful API, MapBox.js, PostgreSQL
 summary: "An individual project built while a student at the Turing School of Software and Design. The application helps Uber drivers find more rides. It pulls in local event data as well as Uber ETA times to display a map pinpointing neighborhoods of high demand and low supply."
 ---
 - Consuming multiple APIs and testing with VCR
+- Caching API responses with Memcached and Dalli
 - Building an API
 - AJAX/jQuery to make the map and content filtering a single-page
 - Proper ENV variable management with Figaro
